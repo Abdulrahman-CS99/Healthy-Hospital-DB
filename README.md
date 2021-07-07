@@ -1,4 +1,4 @@
-# Healthy-Hospital-DB
+# Healthy-Hospital-DB problem description:
 
 You have been asked to design a database for Healthway Hospital. Healthway depends on a large number of persons for its continued success. There are four groups of people on whom the hospital is most dependent: employees, physicians, patients, and volunteers. Of course, some common attributes are shared by all of these persons: Person_ID (identifier), Name, Birth_Date, and Address (City/ Zip code/ Phone).
 Each of the four groups has at least one unique attribute of its own. Employees have a Date_Hired, volunteers have a skill, physicians have a specialty and mobile#, and patients have a contact_date. Additional personnel in the hospital community do not belong to one of these four groups (their numbers are relatively small). However, a particular person may belong to two (or more) of these groups at any given time (for example, Patient and Volunteer).
